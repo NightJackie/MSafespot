@@ -1,0 +1,55 @@
+{
+  "token": "ODM5MTg5ODM0MTE4NzI1Njgz.YJGCbw.rs8XpmDTePPEk4EVE5rvoZz_6Fw",
+  "prefix": "M",
+
+  "clientsettings": {
+    "nodes": [
+      {
+        "host": "lava.link",
+        "port": 80,
+        "password": "youshallnotpass"
+      }
+    ]
+  },
+
+  "spotify": {
+    "clientSecret": "f103c8d222ca4eaeb9713aa244c010c1",
+    "clientID": "aaac10a3250341a89ca33e45e4bdcce9"
+  },
+
+  "settings": {
+    "COMMENT": "time_delay 0 === insta leave",
+    "progressbar_emoji": "🔶",
+    "leaveOnEmpty_Channel": {
+      "enabled": true,
+      "time_delay": 60000
+    },
+    "LeaveOnEmpty_Queue": {
+      "enabled": true,
+      "time_delay": 30000
+    },
+    "selfDeaf": true,
+    "serverDeaf": true
+  },
+
+  "lyricssettings": {
+    "lyrics_finder": true,
+    "COMMENT": "my suggestion is to use ksoft_api on true and paste in the api key u can sign up, until u get the key use lyrics_finder which is way weaker but better the nothing",
+    "ksoft_api": {
+      "use_this_instead": false,
+      "api_key": ""
+    }
+  },
+
+
+  "ownerIDS": [ "611662253606830120" ],
+
+
+  "status": {
+    "text": "Mhelp | powered by Jackie's Engine",
+    "type": "STREAMING",
+    "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
+    "url": "https://www.twitch.tv/derekf18"
+  }
+
+}
